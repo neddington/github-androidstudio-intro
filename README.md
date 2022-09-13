@@ -3,11 +3,7 @@
 
 1. Why Git?
 
-   * There are other version control systems. There are a number of Version Control Systems out there. This alone should prove that version control is incredibly important. Examples
-
-     * [Git](https://git-scm.com)
-     * [Subversion](https://subversion.apache.org)
-     * [Mercurial](https://www.mercurial-scm.org)
+   * There are other version control systems. There are a number of Version Control Systems out there. This alone should prove that version control is incredibly important. Examples are   [Git](https://git-scm.com), [Subversion](https://subversion.apache.org) and [Mercurial](https://www.mercurial-scm.org)
 
     * Git is the most popular and an industry standard.
 
@@ -65,8 +61,10 @@
 ## Work with Remote GitHub repositories
 ### use the Canvas document to complete the exercise with a programming partner
 1. The person in your team with a GitHub account should "drive" first
-2. * **Fork** * this GitHub repository to create a new copy in YOUR GitHub account
+2. **Fork** (button in upper-left corner of) THIS GitHub repository to create a new copy in YOUR GitHub account
 3. Open Android Studio; use the menu option "*File > New > Project from Version Control*" with your GitHub URL
 4. Each person in your group should make at least two commits as shown above; use both the Android Studio terminal and Android Studio VCS to work with Git
-5. Push your changes to GitHub
-6. Submit the URL for the updated repo in Canvas
+5. Push your changes to GitHub using the Android Studio "*Git > PUSH*" menu or the terminal command `git push`
+
+## Submission
+Submit the URL for the updated GitHub repository in Canvas
