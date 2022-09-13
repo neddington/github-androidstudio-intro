@@ -66,5 +66,5 @@
 4. Each person in your group should make at least two commits as shown above; use both the Android Studio terminal and Android Studio VCS to work with Git
 5. Push your changes to GitHub using the Android Studio "*Git > PUSH*" menu or the terminal command `git push`
 
-## Submission
+## Submission (one per group )
 Submit the URL for the updated GitHub repository in Canvas
