@@ -46,14 +46,14 @@
 
 1. Create a new "Empty Activity" project in Android Studio and use the built-in git support (*VCS menu*). It doesn't have all the commands of Git Bash or the command line but is convenient when working in Android Studio.
 
-2. Add a TEXT file called "myFile" (File/New/File)
+2. Add a TEXT file with a distinctive name (File/New/File)
 
 3. Use "*VCS > Enable Version Control Integration*" to initialize a repository - choose "Git" as your VCS
 
 4. Follow the git workflow 
 
    * **View the repository status**: using "*Git>Commit*" from the menu
-   * **Stage the files to commit**: select the "myFile" doc from the list (find it in the *Unversioned Files* list)
+   * **Stage the files to commit**: select the file you created from the list (find it in the *Unversioned Files* list)
    * **Commit the changes with a comment**: Type a commit message in the box, like "tests commit process in Android Studio" and click "Commit"
 
 5. Review the effect using the Terminal
@@ -63,8 +63,10 @@
    * See the difference between `git log` and `git log --oneline`
 
 ## Work with Remote GitHub repositories
-### use the Canvas document to complete the exercise with a partner
-1. Fork and Clone this GitHub repository
+### use the Canvas document to complete the exercise with a programming partner
+1. The person in your team with a GitHub account should "drive" first
+2. Fork and Clone this GitHub repository
 3. Use both the terminal and Android Studio to work with Git
+3. Each person in your group should make at least two commits
 4. Push your changes to GitHub
 5. Submit the URL for your updated repo in Canvas
