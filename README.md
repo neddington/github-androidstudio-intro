@@ -65,8 +65,8 @@
 ## Work with Remote GitHub repositories
 ### use the Canvas document to complete the exercise with a programming partner
 1. The person in your team with a GitHub account should "drive" first
-2. Fork and Clone this GitHub repository
-3. Use both the terminal and Android Studio to work with Git
-3. Each person in your group should make at least two commits
-4. Push your changes to GitHub
-5. Submit the URL for your updated repo in Canvas
+2. * **Fork** * this GitHub repository to create a new copy in YOUR GitHub account
+3. Open Android Studio; use the menu option "*File > New > Project from Version Control*" with your GitHub URL
+4. Each person in your group should make at least two commits as shown above; use both the Android Studio terminal and Android Studio VCS to work with Git
+5. Push your changes to GitHub
+6. Submit the URL for the updated repo in Canvas
