@@ -2,6 +2,7 @@
 # In-Class Activity: GitHub and Android Studio
 # Nick Eddington
 # Freddy Douamba
+# basic message
 ## GIT basics and Best Practices
 
 1. Why Git?
