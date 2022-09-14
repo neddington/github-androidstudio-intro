@@ -1,4 +1,7 @@
 # BIT 300: Get-Set Mobile Github and Android Studio
+# In-Class Activity: GitHub and Android Studio
+# 
+# 
 ## GIT basics and Best Practices
 
 1. Why Git?
